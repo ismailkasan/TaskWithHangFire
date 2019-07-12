@@ -1,0 +1,14 @@
+C:\Users\impar\source\research\TaskWithHangFire\TaskWithHangFire\bin\Debug\netcoreapp2.2\TaskWithHangFire.deps.json
+C:\Users\impar\source\research\TaskWithHangFire\TaskWithHangFire\bin\Debug\netcoreapp2.2\TaskWithHangFire.runtimeconfig.json
+C:\Users\impar\source\research\TaskWithHangFire\TaskWithHangFire\bin\Debug\netcoreapp2.2\TaskWithHangFire.runtimeconfig.dev.json
+C:\Users\impar\source\research\TaskWithHangFire\TaskWithHangFire\bin\Debug\netcoreapp2.2\TaskWithHangFire.dll
+C:\Users\impar\source\research\TaskWithHangFire\TaskWithHangFire\obj\Debug\netcoreapp2.2\TaskWithHangFire.csprojAssemblyReference.cache
+C:\Users\impar\source\research\TaskWithHangFire\TaskWithHangFire\obj\Debug\netcoreapp2.2\TaskWithHangFire.csproj.CoreCompileInputs.cache
+C:\Users\impar\source\research\TaskWithHangFire\TaskWithHangFire\obj\Debug\netcoreapp2.2\TaskWithHangFire.RazorAssemblyInfo.cache
+C:\Users\impar\source\research\TaskWithHangFire\TaskWithHangFire\obj\Debug\netcoreapp2.2\TaskWithHangFire.RazorAssemblyInfo.cs
+C:\Users\impar\source\research\TaskWithHangFire\TaskWithHangFire\obj\Debug\netcoreapp2.2\TaskWithHangFire.AssemblyInfoInputs.cache
+C:\Users\impar\source\research\TaskWithHangFire\TaskWithHangFire\obj\Debug\netcoreapp2.2\TaskWithHangFire.AssemblyInfo.cs
+C:\Users\impar\source\research\TaskWithHangFire\TaskWithHangFire\obj\Debug\netcoreapp2.2\TaskWithHangFire.RazorTargetAssemblyInfo.cache
+C:\Users\impar\source\research\TaskWithHangFire\TaskWithHangFire\bin\Debug\netcoreapp2.2\TaskWithHangFire.pdb
+C:\Users\impar\source\research\TaskWithHangFire\TaskWithHangFire\obj\Debug\netcoreapp2.2\TaskWithHangFire.dll
+C:\Users\impar\source\research\TaskWithHangFire\TaskWithHangFire\obj\Debug\netcoreapp2.2\TaskWithHangFire.pdb
